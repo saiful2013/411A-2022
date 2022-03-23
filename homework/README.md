@@ -2,7 +2,7 @@
 
 ## Accept the assignment with the following invitation link.
 
-> The invitation link: https://classroom.github.com/a/4-fBuuqv
+> The invitation link: https://classroom.github.com/a/OpgHDc-r
 
 ## Join the classroom
 
